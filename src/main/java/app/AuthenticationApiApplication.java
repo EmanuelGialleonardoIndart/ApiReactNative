@@ -23,7 +23,6 @@ public class AuthenticationApiApplication {
 	    registration.setName("jwt-auth-filter");
 	    registration.setOrder(1);
 	    return registration;
-	} 
-
-
+	}
+	
 }
